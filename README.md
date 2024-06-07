@@ -21,15 +21,16 @@ Tableau Desktop installed on your computer. You can download it from Tableau's o
 Installation
 Clone the repository to your local machine using the following command:
 
-sh
-Copy code
-git clone https://github.com/mayuresh7191/IPL2024Analytics
-.git
+
+git clone https://github.com/mayuresh7191/IPL2024Analytics.git
+
+
 Navigate to the directory containing the cloned repository:
 
-sh
-Copy code
+
 cd IPL2024Analytics
+
+
 Open the Tableau files using Tableau Desktop:
 
 For batting performance: Open IPL_phasewiseBatting.twbx
